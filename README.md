@@ -74,10 +74,5 @@ According to the UN Environment Programme (UNEP), over one billion tons of food 
 - Integrate real-time data for dynamic prediction updates.
 - Develop a user-friendly interface for broader adoption by restaurant managers.
 
-## Contact
-
-For more details or contributions, please visit the [GitHub Repository](#).
-
----
 
 WasteNot demonstrates the potential of machine learning in solving critical societal challenges, aligning with values of sustainability and technological innovation.
